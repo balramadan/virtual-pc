@@ -10,7 +10,7 @@ Free Computer Cloud using github and NGROK action. Suitable for gaming / other t
 6. Fill the secret with your NGROK authentication token.
 7. Then in actions, change All Workflow to CI
 8. Click run workflow, wait for the build to finish
-9. Go back to NGROK site, open the edge page.
+9. Go back to NGROK site, open the endpoint in cloud-edge page.
 10. Copy the tcp link
 11. Open the Remote Desktop Client software/application
 12. Create a new desktop and paste the tcp link, but remove the tcp part behind it.
@@ -28,7 +28,7 @@ Cloud Komputer Gratis menggunakan actions github dan NGROK. Cocok untuk main gam
 6. Isi rahasia dengan token autentikasi NGROK Anda.
 7. Kemudian pada actions, ubah All Workflow menjadi CI
 8. Klik jalankan alur kerja, tunggu hingga pembangunan selesai
-9. Kembali ke situs NGROK, buka halaman tepi.
+9. Kembali ke situs NGROK, buka halaman endpoint di cloud-edge.
 10. Salin tautan tcp
 11. Buka perangkat lunak/aplikasi Klien Desktop Jarak Jauh
 12. Buat desktop baru dan tempelkan tautan tcp, tetapi hapus bagian tcp di belakangnya.
